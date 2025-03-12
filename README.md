@@ -23,14 +23,16 @@ Here are some ideas to get you started:
 
   <br>
   
-  ![](https://komarev.com/ghpvc/?username=DiamondPie&color=5e7cff&style=flat-square)
+  <a href="#">![](https://komarev.com/ghpvc/?username=DiamondPie&color=5e7cff&style=flat-square)</a>
   [![More About Me](https://img.shields.io/badge/More%20About-DiamondPie-5e7cff?style=flat-square)](https://dp.itx.pw/about/)
   
   <br>
 
   <div align="center">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=diamondpie&show_icons=true&theme=transparent&hide_border=true" />
-    <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=diamondpie&theme=transparent&hide_border=true" />
+    <a href="#"><img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=diamondpie&show_icons=true&theme=transparent&hide_border=true"/></a>
+    <a href="#"><img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=diamondpie&theme=transparent&hide_border=true"/></a>
   </div>
+
+  <a href="#"><img width="95%" height="auto" src="https://readme-jokes.vercel.app/api?theme=solidBlue&bgColor=%23fff&hideBorder"/></a>
 
 </div>
