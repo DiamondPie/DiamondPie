@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-  ```
-Beautiful is better than ugly.
+```
+  Beautiful is better than ugly.
   Explicit is better than implicit.
   Simple is better than complex.
   Complex is better than complicated.
