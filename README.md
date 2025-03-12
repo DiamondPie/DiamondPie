@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://jrenc.azurewebsites.net/api/signature?code=zHZRCCItO-yB8t7d2KyitELFDwADnXIotkeeIQL3juyNAzFucnyrWA%3D%3D&name=DiamondPie&animate=true&speed=1&color=%230000ff)
+![](https://jrenc.azurewebsites.net/api/signature?code=zHZRCCItO-yB8t7d2KyitELFDwADnXIotkeeIQL3juyNAzFucnyrWA%3D%3D&name=DiamondPie&animate=true&speed=1&color=%235938b4)
+
 ```
-Can't keep up! Is the server overloaded? Running 2333ms or 47 ticks behind
+The quieter you become, the more you are able to hear.
 ```
