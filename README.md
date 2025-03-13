@@ -1,6 +1,6 @@
 <div align="center">
   
-  [![](https://jrenc.azurewebsites.net/api/signature?code=zHZRCCItO-yB8t7d2KyitELFDwADnXIotkeeIQL3juyNAzFucnyrWA%3D%3D&name=DiamondPie&animate=true&speed=1&color=%235e7cff)](https://dp.itx.pw/about/)
+  [![](e-signature.svg)](https://dp.itx.pw/about/)
   
   ## 失败不算苦涩，万物皆有终期
 
