@@ -18,8 +18,11 @@
   <div align="center">
     <a href="#"><img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=diamondpie&show_icons=true&theme=transparent&hide_border=true"/></a>
     <a href="#"><img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=diamondpie&theme=transparent&hide_border=true"/></a>
+    
   </div>
 
+  <a href="#"><img src="https://raw.githubusercontent.com/DiamondPie/github-profile-repo-analytics/refs/heads/output/generated/traffic_chart.svg"/></a>
+  
   ### 👋 Meet me on... 👋
 
   <br>
