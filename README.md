@@ -23,8 +23,13 @@ Here are some ideas to get you started:
 
   <br>
   
-  <a href="#">![](https://komarev.com/ghpvc/?username=DiamondPie&color=5e7cff&style=flat-square)</a>
+  [![](https://komarev.com/ghpvc/?username=DiamondPie&color=5e7cff&style=flat-square)](#)
   [![More About Me](https://img.shields.io/badge/More%20About-DiamondPie-5e7cff?style=flat-square)](https://dp.itx.pw/about/)
+
+  [![Game Dev](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/misc/gamedev.svg)](#)
+  [![Game Dev](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/misc/security.svg)](#)
+  [![Game Dev](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/misc/tools.svg)](#)
+  [![Game Dev](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/misc/web.svg)](#)
 
   <br>
   
@@ -45,11 +50,12 @@ Here are some ideas to get you started:
     <a href="https://t.me/DiamondPie" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
     <a href="https://discordapp.com/users/1125178615122907295" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   </div>
-
 </div>
 
 <br>
 
-### :D
+--- 
+
+### lol :D
 
 <a href="#"><img width="95%" height="auto" src="https://readme-jokes.vercel.app/api?theme=solidBlue&bgColor=%23fff&textColor=%235e7cff&hideBorder"/></a>
