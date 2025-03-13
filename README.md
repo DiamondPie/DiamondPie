@@ -4,7 +4,7 @@
   
   ## 失败不算苦涩，万物皆有终期
 
-  ***Life cannot be bitter when you have a destination.***
+  **Life cannot be bitter when you have a des*tina*tion.**
 
   <br>
   
