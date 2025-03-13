@@ -1,21 +1,6 @@
-<!--
-**DiamondPie/DiamondPie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
-  <a href="https://dp.itx.pw/about/" target="_blank">
-    <img src="https://jrenc.azurewebsites.net/api/signature?code=zHZRCCItO-yB8t7d2KyitELFDwADnXIotkeeIQL3juyNAzFucnyrWA%3D%3D&name=DiamondPie&animate=true&speed=1&color=%235e7cff">
-  </a>
+  
+  [![](https://jrenc.azurewebsites.net/api/signature?code=zHZRCCItO-yB8t7d2KyitELFDwADnXIotkeeIQL3juyNAzFucnyrWA%3D%3D&name=DiamondPie&animate=true&speed=1&color=%235e7cff)](https://dp.itx.pw/about/)
   
   ## 失败不算苦涩，万物皆有终期
 
@@ -27,9 +12,9 @@ Here are some ideas to get you started:
   [![More About Me](https://img.shields.io/badge/More%20About-DiamondPie-5e7cff?style=flat-square)](https://dp.itx.pw/about/)
 
   [![Game Dev](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/misc/gamedev.svg)](#)
-  [![Game Dev](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/misc/security.svg)](#)
-  [![Game Dev](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/misc/tools.svg)](#)
-  [![Game Dev](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/misc/web.svg)](#)
+  [![Security](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/misc/security.svg)](#)
+  [![Tools](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/misc/tools.svg)](#)
+  [![Web](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/misc/web.svg)](#)
 
   <br>
   
