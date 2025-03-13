@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://dp.itx.pw/about/" target="_blank">
-  <img src="https://jrenc.azurewebsites.net/api/signature?code=zHZRCCItO-yB8t7d2KyitELFDwADnXIotkeeIQL3juyNAzFucnyrWA%3D%3D&name=DiamondPie&animate=true&speed=1&color=%235e7cff" alt="awa">
+  <img src="https://jrenc.azurewebsites.net/api/signature?code=zHZRCCItO-yB8t7d2KyitELFDwADnXIotkeeIQL3juyNAzFucnyrWA%3D%3D&name=DiamondPie&animate=true&speed=1&color=%235e7cff">
 </a>
 
 <br>
@@ -33,6 +33,6 @@ Here are some ideas to get you started:
     <a href="#"><img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=diamondpie&theme=transparent&hide_border=true"/></a>
   </div>
 
-  <a href="#"><img width="95%" height="auto" src="https://readme-jokes.vercel.app/api?theme=solidBlue&bgColor=%23fff&hideBorder"/></a>
+  <a href="#"><img width="95%" height="auto" src="https://readme-jokes.vercel.app/api?theme=solidBlue&bgColor=%23fff&textColor=%235e7cff&hideBorder"/></a>
 
 </div>
