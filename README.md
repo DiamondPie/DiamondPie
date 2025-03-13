@@ -20,7 +20,7 @@
     <a href="#"><img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=diamondpie&theme=transparent&hide_border=true"/></a>
   </div>
 
-  ### 👋 Make friends? 👋
+  ### 👋 Meet me on... 👋
 
   <br>
   
