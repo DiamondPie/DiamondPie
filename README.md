@@ -4,7 +4,7 @@
   
   ## 失败不算苦涩，万物皆有终期
 
-  **Life cannot be bitter when you have a des*tina*tion.**
+  **Life cannot be bitter when you have des*tina*tion as your partner.**
 
   <br>
   
