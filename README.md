@@ -17,7 +17,7 @@
   
   <div align="center">
     <a href="#"><img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=diamondpie&show_icons=true&theme=transparent&hide_border=true"/></a>
-    <a href="#"><img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=diamondpie&theme=transparent&hide_border=true"/></a>
+    <a href="#"><img width="49%" height="195px" src="https://github-readme-streak-stats-eight.vercel.app/?user=diamondpie&theme=transparent&hide_border=true"/></a>
     
   </div>
 
