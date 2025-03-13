@@ -1,6 +1,6 @@
 <div align="center">
   
-  [![](e-signatures/e-signature.svg)](https://dp.itx.pw/about/)
+  [![](e-signatures/e-signature.svg)](https://github.com/DiamondPie/DiamondPie/tree/main/e-signatures)
   
   ## 失败不算苦涩，万物皆有终期
 
