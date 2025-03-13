@@ -11,11 +11,6 @@
   [![](https://komarev.com/ghpvc/?username=DiamondPie&color=5e7cff&style=flat-square)](#)
   [![More About Me](https://img.shields.io/badge/More%20About-DiamondPie-5e7cff?style=flat-square)](https://dp.itx.pw/about/)
 
-  [![Game Dev](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/misc/gamedev.svg)](#)
-  [![Security](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/misc/security.svg)](#)
-  [![Tools](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/misc/tools.svg)](#)
-  [![Web](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/misc/web.svg)](#)
-
   <br>
   
   ### 🎉 Advancements 🎉
@@ -30,11 +25,14 @@
   <br>
   
   <div align="center">
-    <a href="mailto:thelostdiamondpie@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/></a>
-    <a href="https://www.instagram.com/_diamondpie_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-    <a href="https://t.me/DiamondPie" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-    <a href="https://discordapp.com/users/1125178615122907295" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+    
+[![Outlook](https://ziadoua.github.io/m3-Markdown-Badges/badges/Outlook/outlook2.svg)](mailto:thelostdiamondpie@outlook.com)
+[![Instagram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram2.svg)](https://www.instagram.com/_diamondpie_)
+[![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg)](https://t.me/DiamondPie)
+[![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg)](https://discordapp.com/users/1125178615122907295)
+    
   </div>
+  
 </div>
 
 <br>
