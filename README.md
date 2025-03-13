@@ -56,6 +56,4 @@ Here are some ideas to get you started:
 
 --- 
 
-### lol :D
-
 <a href="#"><img width="95%" height="auto" src="https://readme-jokes.vercel.app/api?theme=solidBlue&bgColor=%23fff&textColor=%235e7cff&hideBorder"/></a>
