@@ -35,6 +35,14 @@
 [![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg)](https://discordapp.com/users/1125178615122907295)
     
   </div>
+
+  <br>
+  
+  ### 🎮 Recently Playing 🎮
+  
+  ## Undertale Yellow ##
+
+  <a href="https://gamejolt.com/games/UndertaleYellow/136925"><img align=center src="https://i.gjcdn.net/public-data/games/2/175/136925/screenshots/utymainart-wbcv5t7v.png" alt="Undertale Yellow" height=600px width=auto /></a>
   
 </div>
 
