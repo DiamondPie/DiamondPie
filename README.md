@@ -42,7 +42,7 @@
   
   ## Undertale Yellow 💛 ##
 
-  <a href="https://gamejolt.com/games/UndertaleYellow/136925"><img align=center src="https://i.gjcdn.net/public-data/games/2/175/136925/screenshots/utymainart-wbcv5t7v.png" alt="Undertale Yellow" height="90%" width="auto" /></a>
+  <a href="https://gamejolt.com/games/UndertaleYellow/136925"><img align=center src="https://i.gjcdn.net/public-data/games/2/175/136925/screenshots/utymainart-wbcv5t7v.png" alt="Undertale Yellow" height="50%" width="auto" /></a>
   
 </div>
 
