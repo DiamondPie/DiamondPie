@@ -40,9 +40,9 @@
   
   ### 🎮 Recently Playing 🎮
   
-  ## Undertale Yellow 💛 ##
+  ## Stardew Valley 🏡 ##
 
-  <a href="https://gamejolt.com/games/UndertaleYellow/136925"><img align=center src="https://raw.githubusercontent.com/DiamondPie/SomeSortOfResources/refs/heads/main/blog/uty_characters.png" alt="Undertale Yellow" width="50%" height="auto" /></a>
+  <a href="https://www.stardewvalley.net/"><img align=center src="https://raw.githubusercontent.com/DiamondPie/SomeSortOfResources/refs/heads/main/profile/stardew_valley.jpg" alt="Stardew Valley" width="50%" height="auto" /></a>
   
 </div>
 
