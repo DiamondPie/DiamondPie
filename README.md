@@ -4,7 +4,7 @@
   
   ## 失败不算苦涩，万物皆有终期
 
-  **Life cannot be bitter when you have des*tina*tion as your partner.**
+  **Life cannot be bitter when you have destination as your partner.**
 
   <br>
   
@@ -51,5 +51,3 @@
 --- 
 
 <a href="#"><img width="95%" height="auto" src="https://readme-jokes.vercel.app/api?theme=solidBlue&bgColor=%23fff0&textColor=%235e7cff&hideBorder"/></a>
-
-<!-- TElVIDEyQVBQSA== -->
