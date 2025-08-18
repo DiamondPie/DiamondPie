@@ -4,16 +4,16 @@
   
   ## 失败不算苦涩，万物皆有终期
 
-  **Life cannot be bitter when you have destination as your partner.**
+  **No sorrow in falling - even stars burn out.**
 
   <br>
   
   [![](https://komarev.com/ghpvc/?username=DiamondPie&color=5e7cff&style=flat-square)](#)
-  [![More About Me](https://img.shields.io/badge/More%20About-DiamondPie-5e7cff?style=flat-square)](https://dp.itx.pw/about/)
+  [![More About Me](https://img.shields.io/badge/More%20About-DiamondPie-5e7cff?style=flat-square)](https://blog.diamondpie.online/about/)
 
   <br>
   
-  ### 🎉 Advancements 🎉
+  ### 📊 Dashboard 📊
   
   <div align="center">
     <a href="#"><img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=diamondpie&show_icons=true&theme=transparent&hide_border=true"/></a>
