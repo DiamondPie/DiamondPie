@@ -43,6 +43,8 @@
   ## Terraria Calamity ⚔️ ##
 
   <a href="https://calamitymod.wiki.gg/"><img align=center src="https://raw.githubusercontent.com/DiamondPie/SomeSortOfResources/refs/heads/main/profile/calamity.png" alt="Calamity" width="50%" height="auto" /></a>
+
+<img align=center src="https://raw.githubusercontent.com/DiamondPie/calamity-progression/output/rendered/graph.svg" alt="Calamity" width="50%" height="auto" />
   
 </div>
 
