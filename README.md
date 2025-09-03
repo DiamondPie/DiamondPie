@@ -33,6 +33,7 @@
 [![Instagram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram2.svg)](https://www.instagram.com/_diamondpie_)
 [![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg)](https://t.me/DiamondPie)
 [![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg)](https://discordapp.com/users/1125178615122907295)
+[![Steam](https://ziadoua.github.io/m3-Markdown-Badges/badges/Steam/steam2.svg)](https://steamcommunity.com/id/diamondpie114/)
     
   </div>
 
