@@ -41,12 +41,12 @@
   
   ### 🎮 Recently Playing 🎮
   
-  ## Terraria Calamity ⚔️ ##
+  ## Origin Realms 🧭 ##
 
-  <a href="https://calamitymod.wiki.gg/"><img align=center src="https://raw.githubusercontent.com/DiamondPie/SomeSortOfResources/refs/heads/main/profile/calamity.png" alt="Calamity" width="50%" height="auto" /></a>
+  <a href="https://originrealms.com/"><img align=center src="https://assets.originrealms.com/cdn-cgi/image/format=webp,quality=90,fit=scale-down,width=1920/2025/09/onboarding_blog.jpg" alt="Origin Realms" width="50%" height="auto" /></a>
 
-<img align=center src="https://raw.githubusercontent.com/DiamondPie/calamity-progression/output/rendered/graph.svg" alt="Calamity" width="90%" height="auto" />
-  
+  My ID: **TryDiamondPie**
+<!-- <img align=center src="https://raw.githubusercontent.com/DiamondPie/calamity-progression/output/rendered/graph.svg" alt="Calamity" width="90%" height="auto" /> -->
 </div>
 
 <br>
