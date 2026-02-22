@@ -16,8 +16,7 @@
   ### 📊 Dashboard 📊
   
   <div align="center">
-    <a href="#"><img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=diamondpie&show_icons=true&theme=transparent&hide_border=true"/></a>
-    <a href="#"><img width="49%" height="195px" src="https://github-readme-streak-stats-eight.vercel.app/?user=diamondpie&theme=transparent&hide_border=true"/></a>
+    <a href="#"><img src="https://git-hub-insights-virid.vercel.app/api/insight?username=diamondpie&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=true"/></a>
     
   </div>
 
