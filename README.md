@@ -9,7 +9,7 @@
   <br>
   
   [![](https://komarev.com/ghpvc/?username=DiamondPie&color=5e7cff&style=flat-square)](#)
-  [![More About Me](https://img.shields.io/badge/More%20About-DiamondPie-5e7cff?style=flat-square)](https://blog.diamondpie.online/about/)
+  [![More About Me](https://img.shields.io/badge/More%20About-DiamondPie-5e7cff?style=flat-square)](https://diamondpie.online)
 
   <br>
   
