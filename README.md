@@ -40,7 +40,7 @@
   
   ### 🎮 Recently Playing 🎮
   
-  ## Minecraft 🧭 ##
+  ## Minecraft ⛏️ ##
 
   <a href="https://minecraft.net/"><img align=center src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/02/minecraft-key-art-feature.jpg" alt="Minecraft" width="50%" height="auto" /></a>
 
