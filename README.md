@@ -54,8 +54,6 @@
 
 <a href="#"><img width="95%" height="auto" src="https://readme-jokes.vercel.app/api?theme=solidBlue&bgColor=%23fff0&textColor=%235e7cff&hideBorder"/></a>
 
----
-<br><br>
 <div align="center">
 <a href="https://diamondpie.online"><img align=center src="https://raw.githubusercontent.com/DiamondPie/storage/refs/heads/main/logo.svg" alt="DiamondPie" width="70%" height="auto" /></a>
 </div>
