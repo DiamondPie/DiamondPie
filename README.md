@@ -2,9 +2,9 @@
   
   [![](e-signatures/e-signature.svg)](https://github.com/DiamondPie/DiamondPie/tree/main/e-signatures)
   
-  ## 失败不算苦涩，万物皆有终期
+  ## - 失败不算苦涩，万物皆有终期 -
 
-  **No sorrow in falling - even stars burn out.**
+  \* **No sorrow in falling - even stars burn out.** \*
 
   <br>
   
@@ -40,11 +40,11 @@
   
   ### 🎮 Recently Playing 🎮
   
-  ## Origin Realms 🧭 ##
+  ## Minecraft 🧭 ##
 
-  <a href="https://originrealms.com/"><img align=center src="https://assets.originrealms.com/cdn-cgi/image/format=webp,quality=90,fit=scale-down,width=1920/2025/09/onboarding_blog.jpg" alt="Origin Realms" width="50%" height="auto" /></a>
+  <a href="https://minecraft.net/"><img align=center src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/02/minecraft-key-art-feature.jpg" alt="Minecraft" width="50%" height="auto" /></a>
 
-  My ID: **TryDiamondPie**
+  My ID: [**TryDiamondPie**](https://crafty.gg/@TryDiamondPie)
 <!-- <img align=center src="https://raw.githubusercontent.com/DiamondPie/calamity-progression/output/rendered/graph.svg" alt="Calamity" width="90%" height="auto" /> -->
 </div>
 
