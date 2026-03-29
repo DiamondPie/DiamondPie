@@ -16,7 +16,7 @@
   ### 📊 Dashboard 📊
   
   <div align="center">
-    <a href="#"><img src="https://git-hub-insights-virid.vercel.app/api/insight?username=diamondpie&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=true"/></a>
+    <a href="#"><img src="https://git-hub-insights-virid.vercel.app/api/insight?username=diamondpie&theme=tokyonight&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="Github Insights"/></a>
     
   </div>
 
