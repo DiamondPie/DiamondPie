@@ -40,11 +40,12 @@
   
   ### 🎮 Recently Playing 🎮
   
-  ## Minecraft ⛏️ ##
+  ## Escape the Backrooms ☠️ ##
 
-  <a href="https://minecraft.net/"><img align=center src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/02/minecraft-key-art-feature.jpg" alt="Minecraft" width="50%" height="auto" /></a>
-
-  My ID: [**TryDiamondPie**](https://crafty.gg/@TryDiamondPie)
+  <!-- <a href="https://minecraft.net/"><img align=center src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/02/minecraft-key-art-feature.jpg" alt="Minecraft" width="50%" height="auto" /></a> -->
+  <a href="https://www.google.com/search?&q=escape+the+backrooms"><img align=center src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943950/c5ecb6ccafea6eb86d1ab6413f452eb07dcee27f/header.jpg" alt="Escape the Backrooms" width="50%" height="auto" /></a>
+  
+  <!-- My ID: [**TryDiamondPie**](https://crafty.gg/@TryDiamondPie) -->
 <!-- <img align=center src="https://raw.githubusercontent.com/DiamondPie/calamity-progression/output/rendered/graph.svg" alt="Calamity" width="90%" height="auto" /> -->
 </div>
 
