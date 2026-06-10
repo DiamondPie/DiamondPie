@@ -40,12 +40,10 @@
   
   ### 🎮 Recently Playing 🎮
   
-  ## Escape the Backrooms ☠️ ##
+  ## Terraria 🌳 ##
 
   <!-- <a href="https://minecraft.net/"><img align=center src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/02/minecraft-key-art-feature.jpg" alt="Minecraft" width="50%" height="auto" /></a> -->
-  <a href="https://www.google.com/search?&q=escape+the+backrooms"><img align=center src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943950/c5ecb6ccafea6eb86d1ab6413f452eb07dcee27f/header.jpg" alt="Escape the Backrooms" width="50%" height="auto" /></a>
-
-  Currently Reached: [**Level 9**](https://escapethebackrooms.fandom.com/wiki/Level_9)
+  <a href="https://www.google.com/search?&q=terraria"><img align=center src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg" alt="Terraria" width="50%" height="auto" /></a>
   <!-- My ID: [**TryDiamondPie**](https://crafty.gg/@TryDiamondPie) -->
 <!-- <img align=center src="https://raw.githubusercontent.com/DiamondPie/calamity-progression/output/rendered/graph.svg" alt="Calamity" width="90%" height="auto" /> -->
 </div>
