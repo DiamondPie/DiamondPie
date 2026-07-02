@@ -1,54 +1,50 @@
+### Hello! I am...
+
 <div align="center">
   
-  [![](e-signatures/e-signature.svg)](https://github.com/DiamondPie/DiamondPie/tree/main/e-signatures)
-  
-  ## - 失败不算苦涩，万物皆有终期 -
+  <a href="https://github.com/DiamondPie/DiamondPie/tree/main/e-signatures">
+    <img src="e-signatures/e-signature.svg" width="80%" alt="e-signature">
+  </a>
 
+  <h3>失败不算苦涩，万物皆有终期</h3>
+  
   \* **No sorrow in falling - even stars burn out.** \*
+</div>
 
+---
+
+<div>
+  <img align="right" src="https://raw.githubusercontent.com/DiamondPie/DiamondPie/main/assets/kiss_me.png" width="36%">
+
+  <blockquote>"Designs improved with time and knowledge are the essence of my work."<br>"Through no other method can I approach perfection."<br>——  <a href="https://calamitymod.wiki.gg/wiki/Exo_Mechs"><i>Draedon</i>, Calamity</a> </blockquote>
   <br>
-  
+
+An International student majoring in **Computer Science**
+- 💻 Tech stack & interests: Python, Java, Node.js, and HTML/CSS
+- 🌐 Created several tools, things that are useful and helpful
+- 🎮 Minecraft, music games, and anything in [*sandboxes*](https://en.wikipedia.org/wiki/Sandbox_game)
+- ☕ Open to chat, collaborate, or just grab a coffee!
+
+#### Social Media
+
+[![Outlook](https://ziadoua.github.io/m3-Markdown-Badges/badges/Outlook/outlook2.svg)](mailto:thelostdiamondpie@outlook.com)
+[![Instagram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram2.svg)](https://www.instagram.com/diamond.3.14)
+[![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg)](https://t.me/DiamondPie)
+[![Steam](https://ziadoua.github.io/m3-Markdown-Badges/badges/Steam/steam2.svg)](https://steamcommunity.com/id/diamondpie114/)
+
   [![](https://komarev.com/ghpvc/?username=DiamondPie&color=5e7cff&style=flat-square)](#)
   [![More About Me](https://img.shields.io/badge/More%20About-DiamondPie-5e7cff?style=flat-square)](https://dpp.qzz.io)
 
   <br>
   
-  ### 📊 Dashboard 📊
-  
-  <div align="center">
-    <a href="#"><img src="https://git-hub-insights-virid.vercel.app/api/insight?username=diamondpie&theme=tokyonight&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="Github Insights"/></a>
-    
-  </div>
-
-  <a href="#"><img src="https://raw.githubusercontent.com/DiamondPie/github-profile-repo-analytics/refs/heads/output/generated/traffic_chart.svg"/></a>
-  
-  ### 👋 Meet me on... 👋
-
-  <br>
-  
-  <div align="center">
-    
-[![Outlook](https://ziadoua.github.io/m3-Markdown-Badges/badges/Outlook/outlook2.svg)](mailto:thelostdiamondpie@outlook.com)
-[![Instagram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram2.svg)](https://www.instagram.com/diamond.3.14)
-[![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg)](https://t.me/DiamondPie)
-[![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg)](https://discordapp.com/users/1125178615122907295)
-[![Steam](https://ziadoua.github.io/m3-Markdown-Badges/badges/Steam/steam2.svg)](https://steamcommunity.com/id/diamondpie114/)
-    
-  </div>
-
-  <br>
-  
-  ### 🎮 Recently Playing 🎮
-  
-  ## Terraria 🌳 ##
-
-  <!-- <a href="https://minecraft.net/"><img align=center src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/02/minecraft-key-art-feature.jpg" alt="Minecraft" width="50%" height="auto" /></a> -->
-  <a href="https://www.google.com/search?&q=terraria"><img align=center src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg" alt="Terraria" width="50%" height="auto" /></a>
-  <!-- My ID: [**TryDiamondPie**](https://crafty.gg/@TryDiamondPie) -->
-<!-- <img align=center src="https://raw.githubusercontent.com/DiamondPie/calamity-progression/output/rendered/graph.svg" alt="Calamity" width="90%" height="auto" /> -->
 </div>
+  <div align="center">      
+    <h3>📊 Dashboard 📊</h3>
+    <a href="#"><img src="https://git-hub-insights-virid.vercel.app/api/insight?username=diamondpie&theme=tokyonight&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="Github Insights"/></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/DiamondPie/github-profile-repo-analytics/refs/heads/output/generated/traffic_chart.svg"/></a>
+  </div>
 
-<br>
+  <br>
 
 --- 
 
