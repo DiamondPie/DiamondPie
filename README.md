@@ -41,7 +41,6 @@ An International student majoring in **Computer Science**
   <div align="center">      
     <h3>📊 Dashboard 📊</h3>
     <a href="#"><img src="https://git-hub-insights-virid.vercel.app/api/insight?username=diamondpie&theme=tokyonight&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="Github Insights"/></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/DiamondPie/github-profile-repo-analytics/refs/heads/output/generated/traffic_chart.svg"/></a>
   </div>
 
   <br>
