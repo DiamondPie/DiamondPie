@@ -27,7 +27,7 @@ An International student majoring in **Computer Science**
 
 #### Social Media
 
-[![Outlook](https://ziadoua.github.io/m3-Markdown-Badges/badges/Outlook/outlook2.svg)](mailto:thelostdiamondpie@outlook.com)
+[![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg)](mailto:diamondpie@dpp.qzz.io)
 [![Instagram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram2.svg)](https://www.instagram.com/diamond.3.14)
 [![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg)](https://t.me/DiamondPie)
 [![Steam](https://ziadoua.github.io/m3-Markdown-Badges/badges/Steam/steam2.svg)](https://steamcommunity.com/id/diamondpie114/)
