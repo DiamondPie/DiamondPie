@@ -14,7 +14,7 @@
 ---
 
 <div>
-  <img align="right" src="https://raw.githubusercontent.com/DiamondPie/DiamondPie/main/assets/kiss_me_rc.png" width="36%">
+  <a href="https://dpp.qzz.io"><img align="right" src="https://raw.githubusercontent.com/DiamondPie/DiamondPie/main/assets/kiss_me_rc.png" width="36%"></a>
 
   <blockquote>"Designs improved with time and knowledge are the essence of my work. Through no other method can I approach perfection."<br>——  <a href="https://calamitymod.wiki.gg/wiki/Exo_Mechs#In_Phase_2"><i>Draedon</i>, Calamity</a> </blockquote>
   <br>
